@@ -809,3 +809,5 @@ else
 {
     command = argvparts[0];
 }
+
+parseCommand(command, args);
